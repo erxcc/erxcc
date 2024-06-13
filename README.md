@@ -1,5 +1,11 @@
-## Hi there 👋
+## Welcome to My Page 👋
 
-- I am 20 year old self taught python developer. I am familiar with requests, web-scraping, discord bots, automation & web3. 
-- Always looking to improve my coding skills.
-- Current projects: [TheSoleHub](https://thesolehub.com/) & more.
+Hello! I'm a 20-year-old self-taught Python developer with a passion for coding and continuous learning.
+
+### About Me
+
+- 🐍 I specialize in Python and have experience with requests, web scraping, Discord bots, automation, and Web3 technologies.
+- 📈 I'm always looking to improve my coding skills and take on new challenges.
+- 🔭 Current projects: [TheSoleHub](https://thesolehub.com/) and more exciting ventures in the pipeline.
+
+Thanks for visiting my profile! 
