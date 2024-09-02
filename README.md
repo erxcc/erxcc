@@ -8,4 +8,6 @@ Hello! I'm a 21-year-old self-taught Python developer with a passion for coding 
 - 📈 I'm always looking to improve my coding skills and take on new challenges.
 - 🔭 Current projects: [TheSoleHub](https://thesolehub.com/) and more exciting ventures in the pipeline.
 
+Visit my porject portfolio here: [Click Here](https://erxcc.dev/)
+
 Thanks for visiting my profile! 
