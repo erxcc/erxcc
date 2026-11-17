@@ -10,7 +10,7 @@ Hello! I'm a 23-year-old self-taught Python developer with a passion for coding 
 
 ### 🔭 Current Projects
 
-- 🌙 [Luna Rewards](https://luna-website-opal.vercel.app/) - Digital stamp cards for independent shops, kept in Apple Wallet or the Luna web app
+- 🌙 [Luna Rewards](https://www.getluna.co.uk/) - Digital stamp cards for independent shops, kept in Apple Wallet or the Luna web app
 - 💌 [Sharely](https://sharely.erxcc.com/) - Plan & share date itineraries with a single link
 - 👟 [TheSoleHub](https://thesolehub.erxcc.com/) - Online consignment platform provider
 - 🎧 [WrappedNow](https://wrappednow.xyz/) - Real-time Spotify Wrapped insights
